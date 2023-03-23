@@ -1,4 +1,2 @@
 ﻿  20230323_01.cpp
-C:\Users\UserK\Desktop\github\KDT_SF_2nd\20230323_01\20230323_01\20230323_01.cpp(16,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-C:\Users\UserK\Desktop\github\KDT_SF_2nd\20230323_01\20230323_01\20230323_01.cpp(17,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
   20230323_01.vcxproj -> C:\Users\UserK\Desktop\github\KDT_SF_2nd\20230323_01\x64\Debug\20230323_01.exe
