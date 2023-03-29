@@ -1,0 +1,3 @@
+I Love C++.
+I Love Programming.
+Hello World!

@@ -1,0 +1,5 @@
+getline »ç¿ë
+
+ string line;
+getline(cin, line);
+cout << line;
