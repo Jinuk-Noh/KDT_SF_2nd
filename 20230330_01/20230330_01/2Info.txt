@@ -1,0 +1,6 @@
+ID : 2
+Name : µµ´Ï
+Level : 0
+Item Num : 0
+HP : 6
+Damage : 2

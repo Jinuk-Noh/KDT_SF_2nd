@@ -1,0 +1,6 @@
+ID : 1
+Name : ȫ�浿
+Level : 0
+Item Num : 0
+HP : 8
+Damage : 2
