@@ -5,9 +5,6 @@
 
 using namespace std;
 
-bool input_user(int* lastNum, string* winner);
-void input_computer(int* lastNum, string* winner);
-
 int main()
 {
     srand(time(NULL)); // seed value srand의 값을 다르게 넣어야함 
