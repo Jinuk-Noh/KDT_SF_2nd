@@ -36,7 +36,6 @@ int main()
         break;
     }
 
-
     while (*lastNum < 31) {
 
         if (isFirst) {

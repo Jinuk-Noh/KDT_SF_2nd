@@ -133,7 +133,10 @@
     <ClCompile Include="game31.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="timeAttackGame.cpp" />
+    <ClCompile Include="randomNumber.cpp" />
+    <ClCompile Include="timeAttackGame.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="강의내용.txt" />
