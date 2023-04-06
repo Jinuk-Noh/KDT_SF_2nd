@@ -11,8 +11,8 @@ int main() {
 
 	vector<bool> dupleCheck(26, false); // 1~25/  0 사용x
 	vector<bool> sameCheck; // 1~25/  0 사용x
-	vector<int> comNum = vector<int>();
-	vector<int> userNum = vector<int>();
+	vector<int> comNum = vector<int>(); // 사실 필요없는 코드
+	vector<int> userNum = vector<int>(); // 사실 필요없는 코드
 	int rNum = 0;
 	int cnt = 0; // 맞춘 갯수
 	bool isSame = false; // 입력한 숫자가 같은게 있는지 확인하는 변수
