@@ -8,6 +8,7 @@ using namespace std;
 bool checkDuple(string* inputWord, vector<vector<string>>* lstWords);
 
 int main() {
+
 	//시간 측정
 	clock_t startTime = clock();
 	//clock_t endTime = clock();
