@@ -19,7 +19,22 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="baseballGame.cpp" />
+    <ClCompile Include="baseballGame.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="calculation.cpp" />
+    <ClCompile Include="calculationDivIde.cpp" />
+    <ClCompile Include="calculationMinus.cpp" />
+    <ClCompile Include="calculationMultiple.cpp" />
+    <ClCompile Include="calculationPlus.cpp" />
+    <ClCompile Include="calculation_main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="calculation.h" />
+    <ClInclude Include="calculationDivIde.h" />
+    <ClInclude Include="calculationMinus.h" />
+    <ClInclude Include="calculationMultiple.h" />
+    <ClInclude Include="calculationPlus.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

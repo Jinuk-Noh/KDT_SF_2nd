@@ -18,5 +18,40 @@
     <ClCompile Include="baseballGame.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="calculation_main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calculation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calculationPlus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calculationMinus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calculationMultiple.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calculationDivIde.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="calculation.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="calculationDivIde.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="calculationMultiple.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="calculationPlus.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="calculationMinus.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

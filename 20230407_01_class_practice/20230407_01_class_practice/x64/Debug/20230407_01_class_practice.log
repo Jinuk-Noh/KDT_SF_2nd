@@ -1,3 +1,7 @@
-﻿  baseballGame.cpp
-C:\Users\UserK\Desktop\github\KDT_SF_2nd\20230407_01_class_practice\20230407_01_class_practice\baseballGame.cpp(10,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  calculationDivIde.cpp
+  calculationMinus.cpp
+  calculationMultiple.cpp
+  calculationPlus.cpp
+  calculation_main.cpp
+  코드를 생성하고 있습니다...
   20230407_01_class_practice.vcxproj -> C:\Users\UserK\Desktop\github\KDT_SF_2nd\20230407_01_class_practice\x64\Debug\20230407_01_class_practice.exe
