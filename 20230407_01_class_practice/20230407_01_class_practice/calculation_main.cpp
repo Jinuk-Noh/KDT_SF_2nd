@@ -28,27 +28,26 @@ int main() {
 		switch (oper)
 		{
 		case '+':
-			c = new calculationPlus();
-			c->calculate();
+			c = new calculationPlus();			
 			break;
 		case '-':
 			c = new calculationMinus();
-			c->calculate();
 			break;
 		case '*':
 			c = new calculationMultiple();
-			c->calculate();
 			break;
 		case '/':
 			c = new calculationDivide();
-			c->calculate();
 			break;
 		default:
 			cout << "잘못된 연산자를 입력하였습니다."<<endl;
 			continue;
 		}
 
+		c->calculate();
+
 		cout << "연산을 계속 진행하시겠습니까? (Y : 계속, AC : 초기화, EXIT : 종료) : ";
+
 		//정해진 값을 입력하지 않은 경우 계속 입력
 		while (true) {
 			cin >> comm;
