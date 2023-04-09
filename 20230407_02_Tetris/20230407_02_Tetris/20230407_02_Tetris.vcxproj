@@ -128,6 +128,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="20230407_02_Tetris.cpp" />
+    <ClCompile Include="Block.h" />
+    <ClCompile Include="TetrisTable.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TetrisTable.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

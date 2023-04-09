@@ -18,5 +18,16 @@
     <ClCompile Include="20230407_02_Tetris.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Block.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TetrisTable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TetrisTable.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
