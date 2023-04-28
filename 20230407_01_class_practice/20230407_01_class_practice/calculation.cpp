@@ -25,7 +25,7 @@ void calculation::resetResult() {
 
 //¼Ò¸êÀÚ
 calculation::~calculation() {
-
+	
 }
 
 double calculation::result = 0;

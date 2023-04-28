@@ -46,6 +46,8 @@ int main() {
 
 		c->calculate();
 
+		delete c;
+
 		cout << "연산을 계속 진행하시겠습니까? (Y : 계속, AC : 초기화, EXIT : 종료) : ";
 
 		//정해진 값을 입력하지 않은 경우 계속 입력

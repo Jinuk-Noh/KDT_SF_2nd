@@ -1,7 +1,4 @@
-﻿  calculationDivIde.cpp
-  calculationMinus.cpp
-  calculationMultiple.cpp
-  calculationPlus.cpp
+﻿  calculation.cpp
   calculation_main.cpp
   코드를 생성하고 있습니다...
   20230407_01_class_practice.vcxproj -> C:\Users\UserK\Desktop\github\KDT_SF_2nd\20230407_01_class_practice\x64\Debug\20230407_01_class_practice.exe
